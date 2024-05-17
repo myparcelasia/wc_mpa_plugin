@@ -1,8 +1,8 @@
 {
-    "description": "Custom MyParcel Asia plugin for Woocommerce",
-    "name": "mpa/woocommerce",
+    "name": "myparcelasia/wc_myparcelasia",
     "license": "MIT",
-    "type": "project",
+    "type": "wordpress-plugin",
+    "description": "Custom MyParcel Asia plugin for Woocommerce",
     "require": {
         "wanfeiyy/dd": "^1.0",
         "vlucas/phpdotenv": "^5.4"
